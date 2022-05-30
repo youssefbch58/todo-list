@@ -1,0 +1,7 @@
+/// redux 
+1- define the action types
+2- create the actions
+3- work on the reducer
+4- create store4
+5- link store to app (Provider component in index.js )
+6- enjoy
